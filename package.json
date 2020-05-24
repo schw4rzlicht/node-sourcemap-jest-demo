@@ -1,0 +1,13 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.0.0",
+    "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "source-map-support": "^0.5.19"
+  }
+}
